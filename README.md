@@ -33,6 +33,7 @@ WordCraft has two profiles:
 - **rest:** Interact with RESTful endpoints using tools like Postman.
 
 ## User Interface (UI)
+
 To interact with the UI part of the application:
 1. Run the application with the "view" profile active: `mvn spring-boot:run -Dspring.profiles.active=view`
 2. Open your web browser and navigate to the specified URL: `http://localhost:{SERVER_PORT}/api/v1.0/wordcraft`
